@@ -5,7 +5,8 @@ A script that sends you an SMS alert when a number of confirmed cases in a count
 ## Motivation:
 Due to the recent coronavirus outbreak in Asia, people from the rest of the world are growing concerned that the virus
 will continue to spread and eventually reach their country; therefore this script is meant to help people set up alert
-triggers for when their country reaches a certain number of confirmed cases. This way, they can begin to take necessary action.
+triggers for when their country reaches a certain number of confirmed cases. This way, they can begin to prepare by
+taking necessary action.
 
 The Coronavirus global data is scraped from this dashboard provided by Johns Hopkins CSSE: https://arcg.is/0fHmTX
 
