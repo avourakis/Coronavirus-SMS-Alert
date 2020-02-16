@@ -1,14 +1,8 @@
-from bs4 import BeautifulSoup as bs
 import requests
-import re
-import numpy as np
-import datetime
-import pandas as pd
 from urllib.parse import urljoin
 from collections import defaultdict
 from selenium import webdriver
 import time
-import pickle
 import os
 from twilio.rest import Client
 
