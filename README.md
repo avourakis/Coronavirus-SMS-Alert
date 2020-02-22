@@ -10,6 +10,8 @@ taking necessary action.
 
 The Coronavirus global data is scraped from this dashboard provided by Johns Hopkins CSSE: https://arcg.is/0fHmTX
 
+This article explains step by step how to build this project: https://towardsdatascience.com/building-a-coronavirus-outbreak-sms-alert-system-d80f4d648eea
+
 ## Requirements:
 * Python 3 or higher
 * Selenium
